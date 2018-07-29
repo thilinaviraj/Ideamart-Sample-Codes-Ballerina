@@ -1,0 +1,1 @@
+Response body: {"sourceAddress":"tel:94771122336","requestId":"1532870149839","encoding":"0","applicationId":"APP_000001","message":"Test Message","version":"1.0"}

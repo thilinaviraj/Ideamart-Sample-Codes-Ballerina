@@ -1,0 +1,1 @@
+Response body: {"ussdOperation":"mo-init","sourceAddress":"tel:94771122336","requestId":1532868673527,"vlrAddress":"some vlr address","sessionId":"123","applicationId":"APP_000001","message":"#678*","encoding":"440","version":"1.0"}

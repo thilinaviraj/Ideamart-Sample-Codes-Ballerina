@@ -1,0 +1,1 @@
+Request body: {"applicationId":"APP_001764","password":"39ca9208fbb1171f027e8d24fe5e275e","subscriberId":"tel:94771234567","serviceType":"IMMEDIATE","responseTime":"NO_DELAY","freshness":"HIGH","horizontalAccuracy":"1500","vesrion":"2.0"} Response: 404

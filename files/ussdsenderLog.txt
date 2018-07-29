@@ -1,0 +1,1 @@
+Request body: {"message":"1. Press One 2. Press two 3. Press three, 4. Exit","destinationAddress":"tel:94777123456","password":"password","applicationId":"APP_OO1","ussdOperation":"mt-cont","sessionId":"1330929317043"} Response: 200

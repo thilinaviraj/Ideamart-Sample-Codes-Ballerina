@@ -1,0 +1,2 @@
+Request body: {"applicationId":"APP_001","password":"password","externalTrxId":"1234567890","subscriberId":"94777123456","paymentInstrumentName":"MobileAccount","accountId":"123456","currency":"LKR","amount":"10"} Response: 200
+":"100"} Response: 200

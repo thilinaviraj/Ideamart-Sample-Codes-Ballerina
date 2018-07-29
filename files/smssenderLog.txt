@@ -1,0 +1,2 @@
+Request body: {"message":"Hello World","destinationAddresses":"tel:94771122336","password":"password","applicationId":"APP_001"} Response: 200
+IATE","responseTime":"NO_DELAY","freshness":"HIGH","horizontalAccuracy":"1500","vesrion":"2.0"} Response: 404
